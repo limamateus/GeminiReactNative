@@ -24,5 +24,5 @@ Informe sua API Key: Cole sua API key no campo fornecido.
 Informe o Destino: Digite a cidade que deseja visitar.
 Informe o Tempo de Estadia: Indique quanto tempo ficará no destino.
 Gere seu Roteiro: Clique no botão "Gerar Roteiro" para criar um roteiro personalizado.
-
+<img src='github.com/limamateus/GeminiReactNative/blob/master/App.gif' alt='capa do curso' />
 ![App][https://github.com/limamateus/GeminiReactNative/blob/master/App.gif)
